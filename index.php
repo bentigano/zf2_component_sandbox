@@ -58,6 +58,10 @@
               <li><a href="#" id="zend_debug">Zend\Debug</a></li>
               <li><a href="#" id="zend_log">Zend\Log</a></li>
               <li><a href="#" id="zend_version">Zend\Version</a></li>
+			  <li class="nav-header">Infrastructure</li>
+			  <li><a href="#" id="zend_config">Zend\Config**</a></li>
+			  <li><a href="#" id="zend_loader">Zend\Loader**</a></li>
+			  <li><a href="#" id="zend_session">Zend\Session**</a></li>
             </ul>
           </div><!--/.well -->
         </div><!--/span-->

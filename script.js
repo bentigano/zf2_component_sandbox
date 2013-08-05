@@ -12,4 +12,16 @@ $(document).ready(function(){
     $("#main").load("version.php");
   });
   
+  $("#zend_config").click(function(){
+    $("#main").load("config.php");
+  });
+  
+  $("#zend_loader").click(function(){
+    $("#main").load("loader.php");
+  });
+  
+  $("#zend_session").click(function(){
+    $("#main").load("session.php");
+  });
+  
 });
